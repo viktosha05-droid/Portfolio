@@ -8,7 +8,7 @@
 ### 1. A/B Testing: Оптимізація конверсії
 * **Опис:** Аналіз результатів А/B тесту для перевірки гіпотези щодо змін у продукті.
 * **Інструменти:** Python (Pandas, Scipy), Статистичні тести, Canva.
-* **Посилання на проект:** [Переглянути код (Notebook)](ТУТ_БУДЕ_ПОСИЛАННЯ_НА_НОВИЙ_ФАЙЛ) | [Презентація (Canva)](https://www.canva.com/design/DAHASnBrF1I/eml0DUcoTxTGU2ZkpH72vg/edit?utm_content=DAHASnBrF1I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+* **Посилання на проект:** [Переглянути код (Notebook)](https://github.com/viktosha05-droid/Portfolio/blob/main/Lytvyn%20Viktoriia_HW_10022026.ipynb)) | [Презентація (Canva)](https://www.canva.com/design/DAHASnBrF1I/eml0DUcoTxTGU2ZkpH72vg/edit?utm_content=DAHASnBrF1I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 
 ### 2. Global Tech Market Statistical Research (EDA)
 * **Опис:** Дослідження ринку праці ІТ на основі 49,000+ анкет. Аналіз зарплат та трендів віддаленої роботи.
