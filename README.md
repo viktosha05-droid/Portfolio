@@ -26,4 +26,4 @@
 - **Інструменти:** BigQuery, Jupyter, Excel, Tableau/Power BI
 - **Аналітика:** EDA, A/B тестування, Статистичний аналіз
 
-**Контакти:** [LinkedIn][(https://www.linkedin.com/in/viktoriia-lytvyn-87875786/) | viktosha05@gmail.com
+**Контакти:** [LinkedIn][(https://www.linkedin.com/in/viktoriia-lytvyn-data/) | viktosha05@gmail.com
